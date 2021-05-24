@@ -67,51 +67,6 @@ footer {
   padding-top: 30px;
 }
 
-/*  nav {
-	position: auto;
-	top: 0;
-	left: 0;
-	height: 100px;
-	width: 100%;
-	z-index: 1;
-	background-color: #FFF;
-	border-bottom: 1px solid #CCC;
-  padding-top: 100px;
-}
-.nav-container {
-  max-width: 1200px;
-  position: relative;
-  margin-right: auto;
-  margin-left: auto;
-}
-
-.nav-container ul {
-  float: left;
-  height: 100px;
-  line-height: 100px;
-  margin: auto;
-  padding-left: 185px;
-  font-size: 18px;
-  
-}
-
-.nav-container ul li {
-  list-style: none;
-  float: left;
-  margin: 0 15px;
-}
-
-.nav-container li a {
-  text-decoration: none;
-  color: #68737C;
-  transition: 1ms;
-}
-
-.nav-container li a:hover {
-  color: #3381f3;
-}
-*/
-
 #titulo-container{
   padding-top: 5em;
   font-size: 19px;
@@ -169,17 +124,6 @@ footer{
 .navbar-nav{
   padding-left: 80px;
 }
-
-/*#quem-somos{
-  text-align: left;
-  padding-left: 50px;
-}
-
-#paragrafo-sobre{
-  padding-left: 50px;
-  padding-bottom: 5em;
-  padding-top: 20px;
-}*/
 
 #container{
   margin-left: auto;
