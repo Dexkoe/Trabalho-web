@@ -1,0 +1,247 @@
+html{
+  font-family: "Roboto" sans-serif;
+  /*overflow: hidden; */
+  }
+
+
+body{
+  margin: 0%;
+  background-color: rgb(255, 255, 255);
+  }
+
+
+h1{
+  font-size: 35px;
+  margin: 0;
+  color: #67A9E3;
+
+  }
+
+.container-fluid{
+  background-color: rgb(255, 255, 255);
+  max-width: 1920px;
+} 
+
+p{
+  font-size: 18px;
+  margin: auto;
+  color: black;
+    
+ }
+
+
+.container{
+  max-width: 1920px;
+  width: 100%;
+  background-color: #F8F9FA;
+  }
+
+header {
+  top: 0;
+  height: auto;
+  width: 100%;
+}
+
+.flex-container {
+  display: flex;
+  justify-content: center;
+  padding-top: 40px;
+}
+
+.flex-container>div {
+  margin: 10px;
+  padding: 20px;
+  font-size: 30px;
+  width: 25%;
+  border: 1px;
+  border-radius: 1px;
+}
+
+img {
+  border-radius: 5px;
+  width: 100%;
+  height: 100%;
+}
+
+footer {
+  padding-top: 30px;
+}
+
+/*  nav {
+	position: auto;
+	top: 0;
+	left: 0;
+	height: 100px;
+	width: 100%;
+	z-index: 1;
+	background-color: #FFF;
+	border-bottom: 1px solid #CCC;
+  padding-top: 100px;
+}
+.nav-container {
+  max-width: 1200px;
+  position: relative;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.nav-container ul {
+  float: left;
+  height: 100px;
+  line-height: 100px;
+  margin: auto;
+  padding-left: 185px;
+  font-size: 18px;
+  
+}
+
+.nav-container ul li {
+  list-style: none;
+  float: left;
+  margin: 0 15px;
+}
+
+.nav-container li a {
+  text-decoration: none;
+  color: #68737C;
+  transition: 1ms;
+}
+
+.nav-container li a:hover {
+  color: #3381f3;
+}
+*/
+
+#titulo-container{
+  padding-top: 5em;
+  font-size: 19px;
+  color: #67A9E3;
+  text-align: center;
+  padding-bottom: 5px;
+}
+
+#paragrafo-container{
+  padding-top: 1em;
+  text-align: justify;
+  font-size: 2px;
+  margin-left: 40px;
+  margin-right: 40px;
+  
+}
+
+#paragrafo{
+  text-align: center;
+  text-align: justify;
+  font-size: 18px;
+  margin-left: 60px;
+  margin-right: 60px;
+  padding-top: 20px;
+}
+
+.flex-container{
+  flex-direction: row;
+  flex-wrap: inherit;
+}
+
+.p{
+  font-size: 22px;
+  padding-top: 10px;
+}  
+
+footer{
+  padding-left: 20px;
+}
+ 
+.p-rodape{
+  font-size: 15px;
+  padding-top: 60px;
+  padding-bottom: 60px;
+  text-align: center;
+  color: black;
+
+}
+#logo{
+  height: 50px;
+  width: 60px;
+  padding-left: 5px;
+}
+
+.navbar-nav{
+  padding-left: 80px;
+}
+
+/*#quem-somos{
+  text-align: left;
+  padding-left: 50px;
+}
+
+#paragrafo-sobre{
+  padding-left: 50px;
+  padding-bottom: 5em;
+  padding-top: 20px;
+}*/
+
+#container{
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#container .sobre-nos {
+  padding-top: 20px;
+  padding-left: 30px;
+  text-align: left;
+}
+
+#container .paragrafo{
+  padding-top: 10px;
+  padding-left: 30px;
+}
+
+#container .p2{
+  padding-top: 50px;
+  padding-left: 30px;
+}
+
+#container .img{
+  margin-left: 20px;
+  padding-top: 60px;
+  padding-right: 10px;
+  padding-bottom: 30px;
+  ;
+}
+
+#container .p3{
+  padding-top: 70px;
+  padding-right: 20px;
+}
+
+#container .img2{
+ margin-left: 20px;
+ padding-top: 70px;
+ padding-right: 10px;
+ padding-bottom: 30px; 
+}
+
+.contact{
+  text-align: left;
+  padding-top: 30px;
+  margin-left: 30px;
+}
+.contact2{
+  text-align: left;
+  padding-top: 30px;
+  margin-left: 30px;
+}
+.contact3{
+  text-align: left;
+  padding-top: 30px;
+  margin-left: 30px;
+}
+.action{
+  padding-top: 10px;
+}
+#pg-contato{
+  background-color:#CCC;
+  margin-bottom: 40px;
+  padding-bottom: 50px;
+}
